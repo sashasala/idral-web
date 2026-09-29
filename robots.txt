@@ -1,0 +1,4 @@
+# Anteprima: il sito non va indicizzato finche' i contenuti non sono quelli veri.
+# Al go-live sostituire con: User-agent: *  Allow: /  + Sitemap.
+User-agent: *
+Disallow: /
