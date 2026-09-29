@@ -1,0 +1,17 @@
+{
+  "name": "IDRAL — Area riservata",
+  "short_name": "IDRAL",
+  "description": "Interventi, rapportini, preventivi e documenti IDRAL.",
+  "lang": "it",
+  "start_url": "./#/",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F7F9",
+  "theme_color": "#083A52",
+  "icons": [
+    { "src": "icone/icona-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icone/icona-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icone/icona-maschera-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
